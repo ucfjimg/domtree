@@ -1,0 +1,9 @@
+This code computes a dominator tree from a directed graph. Dominator
+trees are widely used in control flow graphs, such as are found in
+compiler optimization passes.
+
+The algorithm used is Lengauer-Tarjan, based on the paper "A Fast 
+Algorithm for Finding Dominators in a Flowgraph", Thomas Lengauer 
+and Robert Tarjan, 1979.
+
+
